@@ -22,7 +22,7 @@ Welcome to DevTools wiki!
 -------------------
 * [Project Wiki Homepage](Project Environment.md)
 
- 
+
 ## Wiki managment
 
 This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax.
@@ -31,6 +31,6 @@ The wiki itself is actually a git repository, which means you can clone it, edit
 
 Go ahead and try:
 
-	$ git clone https://1pls1@bitbucket.org/1pls1/developer-tools.git/wiki
+    https://github.com/cagliostro1991/wiki
 
 Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.

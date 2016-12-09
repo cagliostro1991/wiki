@@ -1,8 +1,7 @@
 # [project] Environments
-###[Comindwork]()
 
 ##Git
-	
+
 	$ git clone ssh://
 
 ##Infrastructure
@@ -27,7 +26,7 @@ Host: `localhost`
 
 
 ###Web asses
-Admin panel: [http://dev.[project].1pls1.com/](http://dev.[project].1pls1.com/)
+Admin panel: [http://dev.[project].com/](http://dev.[project].com/)
 
 | User | Password | Role |
 | ---- | -------- | ---- |
@@ -73,7 +72,7 @@ Host: `localhost`
 
 
 ###Web asses
-Admin panel: [http://dev.[project].com/](http://dev.[project].1pls1.com/)
+Admin panel: [http://dev.[project].com/](http://dev.[project].com/)
 
 | User | Password | Role |
 | ---- | -------- | ---- |

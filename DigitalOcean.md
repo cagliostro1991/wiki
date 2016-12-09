@@ -5,12 +5,12 @@
 | | |
 
 
-## Dev Environment 
+## Dev Environment
 ### Vesta CP [Login](http://)
 
 http://
 
-### Users 
+### Users
 
 | User | Password |
 | ---- | -------- |
@@ -31,17 +31,17 @@ Dev Projects paths:
 ### SSH login
 
 	$ ssh admin@127.0.0.1
-		
+
 ### [Update/Upload git repository on server](Git server.md)
 
 
-##CI 
-### Users 
+##CI
+### Users
 | User | Password |
 | ---- | -------- |
 | root | |
 
-### [Git Tailor](http://tailor.1pls1.com)
+### [Git Tailor](http://tailor.127.0.0.1.com)
 
 | User | Email | Password |
 | --- | --- | --- |

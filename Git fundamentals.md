@@ -4,7 +4,7 @@
 
 ### Clone a branch (feature, sprint)
 
-	$ git clone -b [branch name] https://1pls1@bitbucket.org/1pls1/developer-tools.git/wiki
+	$ git clone -b [branch name] https://
 
 ### Switch to a branch
 
@@ -15,9 +15,9 @@
 	$ git pull origin [branch name]
 
 ### List branches
-	
+
 	$ git branch
- 
+
 ### Create a new branch
 
 	$ git branch [new branch name]
@@ -34,19 +34,19 @@
 
 	$ git push origin :[remote branch]
 
-### Remove tracking of non-existing branch on the remote 
+### Remove tracking of non-existing branch on the remote
 
 	$ git fetch -p
-	
-or 
-	
+
+or
+
 	$ git remote prune origin
 
 ## Adding, committing, pushing your changes
 
 ###  Add specific files to staging area
 
-	$ git add [files to stage]	
+	$ git add [files to stage]
 
 ###Adding all modified and newly created files to staging area
 
